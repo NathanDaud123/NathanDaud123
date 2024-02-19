@@ -4,6 +4,8 @@ Perkenalkan nama saya **Nathan Daud**.<br>
 
 Saya seorang mahasiswa S1 Teknik Informatika di Universitas Brawijaya.<br>
 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nathan-daud/)ku ya.
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
@@ -11,5 +13,3 @@ Saya seorang mahasiswa S1 Teknik Informatika di Universitas Brawijaya.<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanDaud123&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nathan-daud/)ku ya.
