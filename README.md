@@ -19,13 +19,6 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
 ---
 
 ### GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/NathanDaud123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDaud123&layout=compact&langs_count=10&theme=algolia&hide_border=true" />
-  </a>
-</p>
-
 <p align="left">
   <a href="https://github.com/NathanDaud123">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanDaud123&theme=algolia&hide_border=true" />
