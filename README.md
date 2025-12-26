@@ -18,34 +18,50 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
   <a href="https://github.com/NathanDaud123">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=NathanDaud123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"
-      alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanDaud123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/NathanDaud123">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDaud123&layout=compact&langs_count=10&theme=algolia&hide_border=true"
-      alt="Top languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img height="180em"
-      src="https://streak-stats.demolab.com?user=NathanDaud123&theme=algolia"
-      alt="GitHub streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDaud123&layout=compact&langs_count=10&theme=algolia&hide_border=true" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/NathanDaud123">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=NathanDaud123&theme=react-dark&hide_border=true&radius=8"
-      alt="Contribution activity graph" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanDaud123&theme=algolia&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NathanDaud123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanDaud123&theme=algolia" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NathanDaud123">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NathanDaud123&theme=algolia" />
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NathanDaud123&theme=algolia" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NathanDaud123">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NathanDaud123&theme=algolia" />
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NathanDaud123&theme=algolia&utcOffset=7" />
+  </a>
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="left">
+  <a href="https://github.com/NathanDaud123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NathanDaud123&theme=react-dark&hide_border=true&radius=8" />
   </a>
 </p>
 
