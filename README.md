@@ -22,9 +22,6 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
 
 <p align="left">
   <a href="https://github.com/NathanDaud123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanDaud123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/NathanDaud123">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDaud123&layout=compact&langs_count=10&theme=algolia&hide_border=true" />
   </a>
 </p>
