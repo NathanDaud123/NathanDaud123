@@ -80,6 +80,14 @@ Universitas Brawijaya
 
 ---
 
+## 📄 Curriculum Vitae
+
+<a href="https://drive.google.com/file/d/1EbXPcGVqq2yIwadEnI6-7iUPSSkfHxDb/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20My%20CV-PDF-111827?style=for-the-badge&logo=googledrive&logoColor=white" alt="View My CV"/>
+</a>
+
+---
+
 ## Achievements
 
 <p align="left">
