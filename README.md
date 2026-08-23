@@ -1,29 +1,52 @@
 <h1 align="left">Hi there 👋</h1>
 
 <p align="left">
-I'm <b>Nathan Daud</b> — a Computer Science (B.Sc.) graduate from Universitas Brawijaya and currently a Master's student focused on research in Artificial Intelligence.
-I enjoy bridging research and real-world engineering: experimenting with AI systems and shipping them into production as full-stack applications.
+I'm <b>Nathan Daud</b> — a <b>Computer Scientist, AI Researcher, and Full-Stack Engineer</b> with Bachelor's and Master's degrees in Computer Science from Universitas Brawijaya.
+I work at the intersection of <b>Artificial Intelligence, Machine Learning, and Software Engineering</b>, turning research ideas into practical and deployable systems.
 </p>
 
 <p align="left">
-Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
+I work across the full lifecycle of AI-driven systems — from <b>research and experimentation</b> to <b>model development, system engineering, and deployment</b>.
+</p>
+
+<p align="left">
+Connect with me on LinkedIn:
+<a href="https://www.linkedin.com/in/nathan-daud/">LinkedIn</a>
 </p>
 
 ---
 
-## Interests
-- AI research (machine learning, deep learning, applied AI).
-- Full-stack development (building end-to-end products).
-- Turning experiments into deployable systems (MVP → iteration → production).
+## Research & Interests
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Deep Learning & Applied AI
+* 🧬 Evolutionary Computation & Optimization
+* 📊 Machine Learning Research & Experimental Evaluation
+* 💻 Full-Stack Software Engineering
+* 🚀 AI-Powered Applications & Production Systems
+* 🔬 Research → Prototype → Production
 
 ---
 
-### GitHub Analytics
+## What I Build
+
 <p align="left">
-  <a href="https://github.com/NathanDaud123">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanDaud123&theme=algolia&hide_border=true" />
-  </a>
+I build intelligent systems that connect <b>research with real-world engineering</b> — developing machine learning algorithms, conducting empirical experiments, building AI-powered applications, and turning research prototypes into usable software.
 </p>
+
+---
+
+## Education
+
+🎓 <b>Master's Degree in Computer Science</b><br>
+Universitas Brawijaya
+
+🎓 <b>Bachelor's Degree in Computer Science</b><br>
+Universitas Brawijaya
+
+---
+
+## GitHub Analytics
 
 <p align="left">
   <a href="https://github.com/NathanDaud123">
@@ -47,7 +70,7 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
 
 ---
 
-### Contribution Graph
+## Contribution Graph
 
 <p align="left">
   <a href="https://github.com/NathanDaud123">
@@ -66,3 +89,10 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/nathan-daud/
       alt="GitHub trophies" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems where research meets real-world engineering.</i>
+</p>
+
