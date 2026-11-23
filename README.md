@@ -11,7 +11,7 @@ I work across the full lifecycle of AI-driven systems — from <b>research and e
 
 <p align="left">
 Connect with me on LinkedIn:
-<a href="https://www.linkedin.com/in/nathan-daud/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/nathandaud/">LinkedIn</a>
 </p>
 
 ---
